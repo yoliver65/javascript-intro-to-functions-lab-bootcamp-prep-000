@@ -4,6 +4,6 @@ function shout(string) {
 function whisper(string) {
   return string.toLowerCase()
 }
-function sayHiToGramdma(string) {
-  return string.toLowerCaseCase()
+function logShout(string) {
+  console.log() string.()
 }
